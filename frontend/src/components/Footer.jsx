@@ -16,7 +16,7 @@ const Footer = () => {
             </h1>
             <p className="text-sm mt-2">&copy; 2024 Your Company. All rights reserved.</p>
             <p className="text-sm mt-1">
-              Created with <span className="text-red-500"><FontAwesomeIcon icon={faHeart} /></span> by Siddharth
+              Created with <span className="text-red-500"><FontAwesomeIcon icon={faHeart} /></span> by Piyush
             </p>
           </div>
           
